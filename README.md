@@ -1,10 +1,10 @@
-# Hi, I'm Nabil
+Independent developer behind [Kozuma](https://kozuma.studio). Building what I enjoy using.
 
-Independent developer in France, behind [Kozuma](https://kozuma.studio).
-I make apps, websites, tools and video games.
+**Now**
+- [TierLore](https://tierlore.com/): anime tier lists that spoil nothing
+- [Rewind](https://rewind.kozuma.studio/): your year in photos, and nothing leaves your phone
+- [Small games](https://kozumagames.itch.io) made with Godot
 
-**Now:** [TierLore](https://tierlore.com/) and [Rewind](https://rewind.kozuma.studio/)
+**Before:** the common core at 42, and a web developer diploma at Simplon. [The whole journey](https://kozuma.studio/#carnet)
 
-**Before:** the common core at 42, and a web developer diploma at Simplon
-
-**Contact:** contact@kozuma.studio
+**Say hi:** contact@kozuma.studio
